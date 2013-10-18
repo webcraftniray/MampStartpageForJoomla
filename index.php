@@ -23,7 +23,7 @@
     </head>
     <body>
         <h1>Localhost Joomla sites</h1>
-        <h5>by Ray Lawlor @ <a href="http://www.zoomodsplus.com" target="_blank" ZooModsPlus.com</a></h5>
+        <h5>by Ray Lawlor @ <a href="http://www.zoomodsplus.com" target="_blank"> ZooModsPlus.com</a></h5>
         <div class="uk-grid  uk-text-center">
 
             <?php

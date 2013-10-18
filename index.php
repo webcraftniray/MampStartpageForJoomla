@@ -10,7 +10,6 @@
          */
         ?>
         <link rel="stylesheet" href="uikit.gradient.min.css" />
-        <script src="jquery.js"></script>
         <script src="uikit.min.js"></script>
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">

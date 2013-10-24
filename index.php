@@ -10,13 +10,10 @@
          */
         ?>
         <link rel="stylesheet" href="uikit.gradient.min.css" />
-<<<<<<< HEAD
+
         <link rel="stylesheet" href="isotope.css" />
         <script src="jquery.isotope.min.js"></script>
-=======
         <script src="uikit.min.js"></script>
-
->>>>>>> 0c00410be611097dd05f040e8d5f6bcfcd3436ae
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>MAMP Sites</title>
         <style type="text/css">
